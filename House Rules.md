@@ -48,7 +48,6 @@ not getting in the way of other members or upcoming events.
 
 
 
-
 ## Having nice things
 
 One of our goals is to “have nice things” – in other words, to be able
@@ -532,6 +531,22 @@ the departure of a person from our community. Our commitment is to
 create an environment in which everyone is confident that everyone
 else will follow the rules, so that they can trust that their own
 efforts will be reciprocated.
+
+
+
+## Contributing
+
+Monument is a community, not a product or service. Every member, and
+especially every tenant, is expected to be active in and contribute to
+our community, rather than viewing the community or the facilities as
+a resource to be used. When we each strive to give more than we get,
+the result is even greater than the sum of the parts.
+
+One factor that BNW will consider in deciding whether to renew a
+tenant's lease is their level of community contribution relative to
+other members and other potential tenants. Tenants that use the
+building as a resource without giving back should expect that their
+lease may not be renewed.
 
 
 
