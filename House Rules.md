@@ -7,7 +7,7 @@ workspace, and to protect our tenants, members, guests, their
 property, BNW, and the building itself.
 
 BNW may change or add to these rules at its discretion. Updates will
-be announced by email and in the #general channel in Slack.
+be announced by email and in the `#general` channel in Slack.
 
 
 
@@ -58,14 +58,14 @@ destroyed very quickly if used in the wrong material, at the wrong
 speed, or without proper lubricant.
 
 If you’re not completely sure, you can’t use the tool until you find a
-skilled person to teach you. Asking on #help in Slack will often
+skilled person to teach you. Asking on `#help` in Slack will often
 work. “Completely sure” should usually mean formal training or
 professional experience, enough to have a good grasp not just of your
 skills but more importantly your limitations. When in doubt,
 ask. We’re here to help.
 
 If you damage something or otherwise get in over your head, it is your
-obligation to let someone know and get help. Posting to #maintenance
+obligation to let someone know and get help. Posting to `#maintenance`
 on Slack is sufficient unless there is a time critical problem or
 safety issue. Breaking something is not a big deal; we understand that
 accidents happen and plan on that basis. Not posting it to Slack is
@@ -365,7 +365,7 @@ let them know what’s bothering you. If someone comes to you with
 concerns, listen to and try to understand their point of view.
 
 If you can’t work out a conflict, enlist a third party to help
-mediate. If nothing works, email conduct@monument.house to ask for
+mediate. If nothing works, email `conduct@monument.house` to ask for
 help.
 
 We are a values-based membership organization and among our values are
@@ -396,7 +396,7 @@ contact, physical or emotional abuse, and any course of action whose
 end goal is to marginalize, annoy, or coerce another person.
 
 Harassment should be reported to BNW by emailing
-conduct@monument.house, whether you are the object of the harassment
+`conduct@monument.house`, whether you are the object of the harassment
 or an observer of it. After consideration of the facts and
 circumstances, BNW will make a determination, in its sole discretion,
 as to whether the behavior constitutes harassment and will notify you
