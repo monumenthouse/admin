@@ -1,5 +1,5 @@
 # House Rules
-Version 15.12.6
+*Version 15.12.6*
 
 The following rules have been established by Brave New World LLC
 (“BNW”) to promote smooth functioning of our cooperative household and
