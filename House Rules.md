@@ -1,5 +1,5 @@
 # House Rules
-*Version 15.12.6*
+*Version 15.12.10*
 
 The following rules have been established by Brave New World LLC
 (“BNW”) to promote smooth functioning of our cooperative household and
@@ -25,12 +25,27 @@ when you came upon it. Sweep floors, pick up trash, wipe down
 countertops and sinks, clean up sawdust and paint spills. Leave it in
 a state that would make a visitor say, “Wow, this place is clean and
 well organized!” even if the person before you did not follow that
-rule. Don’t allow walls or floors to be damaged.
+rule. If you encounter a mess that you don't know how to clean up, for
+example a tool that you don't know how to properly turn off or put
+away, err on the safe side and ask for help in Slack on `#help`.
 
-BNW is not liable or responsible in any way for the loss, theft, or
-damage of any items left in common areas. Other than bicycles, items
-left in common areas will be considered donations to BNW unless prior
-arrangements have been made in writing.
+Take care with the common areas and don't mess them up. If you scratch
+the walls or stain the floors it is your responsiblity to fix it. Ask
+in `#maintenance` if you can't do it immediately or don't know how.
+
+Any personal property left in common areas should be entered into the
+online "Personal Property in Common Areas" spreadsheet or clearly and
+permanently labeled with the owner's name. Otherwise it will be
+considered a donation to BNW, and become BNW's property, once it has
+been in the common areas for two weeks. BNW is not liable or
+responsible in any way for the loss, theft, or damage of any items
+left in common areas.
+
+Be judicious when using the common areas as workspace for personal
+projects. You can't set up a permanent personal workstation in the
+common areas, but occasional medium term use is OK as long as you're
+not getting in the way of other members or upcoming events.
+
 
 
 
@@ -161,6 +176,31 @@ BNW-owned consumables are provided as a gift to you from BNW. They are
 not part of your lease and BNW is under no obligation to continue
 providing them. Should BNW stop providing this gift, you are not
 entitled to any refund or reduction in rent.
+
+Member-owned consumables will be labeled as such or listed in the
+"Personal Property in Common Areas" spreadsheet, and are provided to
+you as a gift from the other member.
+
+
+
+## Components
+
+Our lab spaces contain a wide variety of useful components, from video
+cables, power cords, computers, and projectors, to microcontrollers,
+sensors, motors, servos, power converters, and modular mounts. Some of
+these components are owned by BNW and some are owned by our members.
+
+Unless otherwise posted, these components are available for your short
+term use, provided you do not damage them and return them within 24
+hours. If you do not want to make your components available for short
+term use by other members, either do not leave them in the common
+areas or label them clearly as not for common use. As with all common
+area items, BNW assumes no liability for lost, stolen, or damaged
+components.
+
+Some of the components are available for longer term checkout or
+purchase if you want to build them permanently into a project. If this
+is the case, a sign will be posted with the details.
 
 
 
