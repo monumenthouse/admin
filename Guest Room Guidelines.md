@@ -6,7 +6,7 @@ This is a starting point, and an experiement. We expect to learn by hosting and 
 
 If you'd like to see a change to these guidelines, or if something doesn't make sense, please contact @Leslie on [Slack](https://mnmt.slack.com) OR start a discusion on #activies on [Slack](https://mnmt.slack.com) OR send a pull request to the [github repo](https://github.com/monumenthouse/admin). This is a living document and your contributions are welcome!
 
-**How it works:** Add your guest's stay as *Your Name* hosts *Their Name* on the [Monument Guest Room calendar](https://calendar.google.com/calendar/render?tab=mc#eventpage_6). Include their arrival and departure day and times (so that other people can book on those days if needed).
+**How it works:** Add your guest's stay as *Your Name* hosts *Their Name* on the [Monument Guest Room calendar](https://calendar.google.com/calendar/embed?src=kfd48jdm1c3ftq857lela9sp6g%40group.calendar.google.com&ctz=America/Los_Angeles). Include their arrival and departure day and times (so that other people can book on those days if needed).
 
 Optionally add details about them or their stay in the description section, and/or put a note in #activities on [Slack](https://mnmt.slack.com) (where the calendar events are being surfaced). It’s first come first serve, until we deem we need another system (some other houses setup an allotment of days, for example 10, that can be traded amongst housemates).  
 
