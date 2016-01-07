@@ -2,7 +2,7 @@
 The guest room exists to let Monument residents host friends and family for short visits. It is not a short-term sublet. If you are looking to discuss a sublet, please talk to @Geoff on [Slack](https://mnmt.slack.com).
 
 ###The Purpose of these Guidelines
-This is a starting point, and an experiement. We expect to learn by hosting and to revise these guidelines accordingly. These guidelines are inteneded to make the guest room self-serve in most cases. This is intended to explain the standard setup. If the hosting situation you need is different than what's in the guidelines, you must get buy-in from other MNMT residents by alerting them of your situation via the mailing list or on #activies on [Slack](https://mnmt.slack.com). 
+This is a starting point, and an experiment. We expect to learn by hosting and to revise these guidelines accordingly. These guidelines are intended to make the guest room self-serve in most cases. This is intended to explain the standard setup. If the hosting situation you need is different than what's in the guidelines, you must get buy-in from other MNMT residents by alerting them of your situation via the mailing list or on #actives on [Slack](https://mnmt.slack.com). 
 
 If you'd like to see a change to these guidelines, or if something doesn't make sense, please contact @Leslie on [Slack](https://mnmt.slack.com) OR start a discusion on #activies on [Slack](https://mnmt.slack.com) OR send a pull request to the [github repo](https://github.com/monumenthouse/admin). This is a living document and your contributions are welcome!
 
