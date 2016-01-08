@@ -48,7 +48,7 @@ Please feel free to use the kitchen and laundry room. The main floor bathrooms a
 **Things we ask of you:**
 Be respectful in regards to noise and cleanliness, wash your own dishes, leave the kitchen cleaner than you found it, keep your personal belongings in the guest room, and leave your used towels in the guest room when you leave. Your host will be in charge of laundry and cleaning after you depart.
 
-Monument is a No smoking building. You may smoke on the second floor balcony, but never inside the building or the guest room. This includes tobacco, marijuana, and ecigs.
+Monument is a No smoking building. You may smoke on the second floor balcony (the outdoors one by the elevator), but never inside the building or any room, including the guest room. This includes tobacco, marijuana, and ecigs.
 
 The common food is limited to snacks, you are welcome to peruse the panty, we generally ask that you give as much as you take, and review and follow the rules posted in the pantry. Please plan to supply your own meals if your host is not doing so.
 
